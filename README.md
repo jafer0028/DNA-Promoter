@@ -6,7 +6,7 @@ A bioinformatics tool that processes Fasta-formatted DNA sequences to identify p
 # DNA Sequence Analyzer
 
 ## Overview
-This project analyzes Fasta files containing DNA sequences to identify and separate genetic regions (promoters) from non-genetic regions. It provides valuable insights for genomic research by pinpointing key regulatory elements in DNA sequences.
+This project analyzes Fasta files containing DNA sequences to identify and separate genetic regions from non-genetic regions. It provides valuable insights for genomic research by pinpointing key regulatory elements in DNA sequences.
 
 ## Key Features
 - Promoter Identification: Detects promoter regions in DNA sequences
